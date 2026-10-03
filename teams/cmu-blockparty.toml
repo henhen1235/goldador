@@ -2,7 +2,7 @@ name = "BlockParty"
 description = '''A way to track your meal block usage progress. This would help
                 you track if you are behind or ahead of schedule, and you can eat
                 accordingly. Integration with SIO will allow users to check past
-                 orders + receipts.'''
+                orders + receipts.'''
 website = "tba"
 server = "tba"
 
@@ -12,7 +12,7 @@ name = "BlockParty"
 description = '''A way to track your meal block usage progress. This would help
                 you track if you are behind or ahead of schedule, and you can eat
                 accordingly. Integration with SIO will allow users to check past
-                 orders + receipts.'''
+                orders + receipts.'''
 
 [[membership]]
 timeframe = "2026-2027"
